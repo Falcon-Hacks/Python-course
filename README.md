@@ -20,6 +20,6 @@ cd /Users/user/Documents/Python-course
 #Levantamos el servicio de Jupyter Notebook
 $ jupyter notebook
 
-#Posterior a ello habira nuestros Notebooks en el navegador
+#Posterior a ello habrirá nuestros Notebooks en el navegador
 ```
 
